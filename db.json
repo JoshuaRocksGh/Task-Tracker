@@ -9,13 +9,13 @@
     {
       "text": "Communion Service",
       "day": "Sunday",
-      "reminder": true,
+      "reminder": false,
       "id": 2
     },
     {
       "text": "24 Hour Prayer",
       "day": "Friday to Saturday",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     }
   ]
